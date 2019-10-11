@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.newtechnology.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\marci\\Documents\\Unity games\\New technology\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "New technology [Testing]"
+        }
+      }
+    }
+  ]
+}
